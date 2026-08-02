@@ -60,13 +60,13 @@ BUT I recommend repeating patterns rather than full images. */
  
 @media screen and (min-width: 601px) { 
 body {
-background: url('https://i.postimg.cc/htv8bDHL/readyforadate.png') center center fixed;
+background: url('https://i.ibb.co/Wv2X9FgY/ubhubhubhucr.png') center center fixed;
 background-size: 100%;
 color: #HEX; } }
 
 @media screen and (max-width: 600px){
 body {
-background: url('https://i.postimg.cc/htv8bDHL/readyforadate.png') center center fixed;
+background: url('https://i.ibb.co/Wv2X9FgY/ubhubhubhucr.png') center center fixed;
 background-size: cover;
 color: #HEX; } }
 
@@ -115,7 +115,7 @@ color: #HEX !important; }
 You can make it a solid color by either using a HEX code, or by setting the final number in RGBA to 1.0 */
    
 .container.main {
-background: #f1e6d7;
+background: #efe9e1;
 border: 2px solid #364015;
 box-shadow: none;
 border-radius: 5px; }
@@ -142,7 +142,7 @@ color: #F2F2F2 !important}
 
 .navbar li a:hover {
 background: #HEX !important;
-color: #fff2e8 !important; }
+color: #efe9e1 !important; }
 
 /* This is mobile collapable navbar color changes.
 toggle is the button that opens the navbar
@@ -169,7 +169,7 @@ color: #798C35 !important;
 border: 1px solid #364015; !important;
 border-radius: 0px !important;} 
 .breadcrumb .active {
-color: #fff8ef; }
+color: #efe9e1; }
  
 /* ALERTS 
 .alert is all alerts, only set this one if you want all alerts to be the same color
@@ -211,7 +211,7 @@ div#commentBox {
 background: #a88254 !important;
 border: 2px, solid #A69580; !important;
 border-radius: 0px !important;
-color: #fff6f0 !important;}
+color: #efe9e1 !important;}
 	
 .comment {     
 background: #HEX !important;
@@ -225,7 +225,7 @@ color: #HEX !important; }
 
 input.bad {
 background: #636b40 !important;
-color: #fff6e9 !important;}
+color: #efe9e1 !important;}
 input.bad a {
 color: #ffedd7 !important; }
 
@@ -282,8 +282,8 @@ color: #2f3813 !important; }
 
 /* This is the background of the progress bars. */
 .progress {
-background:  #fff6f0;
-color: #fff6f0 !important;
+background:  #efe9e1;
+color: #efe9e1 !important;
 border-radius: 0px !important;  }
 
 /* Icon Replacement - Warning
@@ -297,7 +297,7 @@ width: 24px !important; }
 
 button#label_currentChannel {
 border: none !important;
-background: #fff6f0 !important; }
+background: #efe9e1 !important; }
 
 div#chatMessageContainer {
 border: none !important; }
@@ -308,7 +308,7 @@ color: #a88254 !important; }
 .s-chat-sidebar #fraChatChannelMenu,
 button.channelSwitcher, button.channelSwitcher.active {
     background: #a88254 !important;
-color: #fff6f0 !important;	
+color: #efe9e1 !important;	
 border: none !important;
 border-radius: 0px !important;
 box-shadow: none !important; }
@@ -327,7 +327,7 @@ border: 1px solid #HEX !important; }
 
 .s-chat-message__pinned {
 background-color: #ad8e69 !important;
-color: #fff6f0 !important;
+color: #efe9e1 !important;
 border: none !important; }
 
 /* Odd will show at the TOP of chat, even will show every other message under it. If you want both colors the same, do
@@ -426,7 +426,7 @@ background: #HEX !important;
 border-radius: 0px !important;  }
 
 .inner-table .right {
-background: #f1e6d7 !important;
+background: #efe9e1 !important;
 border-radius: 0px !important; 
 color: #HEX !important; } 
 
@@ -492,7 +492,7 @@ otherwise it can make your navbar look weird.
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 display: none;}
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a::after {
-content: url('https://i.ibb.co/WWbBHSq2/lioden-silas.png'); }
+content: url('https://i.ibb.co/zhg7Mcfy/Untitled-7.png'); }
  
 /* TEXT BOXES & BUTTONS -
 all text boxes and buttons will be whatever color you put in here
@@ -584,7 +584,7 @@ img[src$="ancestors.jpg"] {
  
 /* PRIDE DYNASTY */
 img[src$="ancestorsfem.png"] {
-    content:url('LINK')!important;
+    content:url('https://static.lioden.com/images/layout/ancestorsfem.png')!important;
     width:185px!important; }
  
 /* ACHIEVMENTS */
@@ -923,3 +923,4 @@ z-index: 100; }
             right: 22%;
         }
     }
+
