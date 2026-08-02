@@ -729,9 +729,9 @@ height: 250px; }
    
 .Box1 {
 float: left;
-background: #9e7b51!important;
-color: #f1e6d7 !important;
-border: none !important;
+background: #f2e8d7 !important;
+color: #100d09 !important;
+border: #100d09 !important;
 border-radius: 0px !important;
 padding: 5px;
 float: left;
